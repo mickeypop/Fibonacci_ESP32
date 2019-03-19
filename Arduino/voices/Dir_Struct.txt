@@ -13,10 +13,10 @@ used http://www.anerty.net/software/file/DriveSort/ to set sequence numbering
 │    it_is_10.mp3		 10
 │    it_is_11.mp3		 11
 │    it_is_12.mp3		 12
-│    it_is_mid_nite.mp3	 13
+│    it_is_mid_nite.mp3		 13
 │    it_is_noon.mp3		 14
 │    voices-off.mp3		 15
-│    v_hi-im-alice.mp3	 16
+│    v_hi-im-alice.mp3		 16
 ├───male
 │    it_is_1.mp3		 17
 │    it_is_2.mp3		 18
