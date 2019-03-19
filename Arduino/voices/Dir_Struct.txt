@@ -1,0 +1,50 @@
+used http://www.anerty.net/software/file/DriveSort/ to set sequence numbering
+                        File#      
+├───female
+│    it_is_1.mp3		  1
+│    it_is_2.mp3		  2
+│    it_is_3.mp3		  3
+│    it_is_4.mp3		  4
+│    it_is_5.mp3		  5
+│    it_is_6.mp3		  6
+│    it_is_7.mp3		  7
+│    it_is_8.mp3		  8
+│    it_is_9.mp3		  9
+│    it_is_10.mp3		 10
+│    it_is_11.mp3		 11
+│    it_is_12.mp3		 12
+│    it_is_mid_nite.mp3	 13
+│    it_is_noon.mp3		 14
+│    voices-off.mp3		 15
+│    v_hi-im-alice.mp3	 16
+├───male
+│    it_is_1.mp3		 17
+│    it_is_2.mp3		 18
+│    it_is_3.mp3		 19
+│    it_is_4.mp3		 20
+│    it_is_5.mp3		 21
+│    it_is_6.mp3		 22
+│    it_is_7.mp3		 23
+│    it_is_8.mp3		 24
+│    it_is_9.mp3		 25
+│    it_is_10.mp3		 26
+│    it_is_11.mp3		 27
+│    it_is_12.mp3		 28
+│    it_is_mid_nite.mp3	 29
+│    it_is_noon.mp3		 30
+│    voices-off.mp3		 31
+│    v_hi-im-george.mp3	 32
+├───Westminster
+│    0001.mp3			 33 - the chimes for the quarter hour
+│    0002.mp3			 34 - the chimes for the half hour
+│    0003.mp3			 35 - the chimes for the three-quarter hour
+│    0004.mp3			 36 - the chimes for the hour
+│    0005.mp3			 37 - the hour chime
+│    0006.mp3			 38 - the hour chime with trailing sound (the last chime)
+└───Westminster_short
+     0001.mp3			 39 - the chimes for the quarter hour
+     0002.mp3			 40 - the chimes for the half hour
+     0003.mp3			 41 - the chimes for the three-quarter hour
+     0004.mp3			 42 - the chimes for the hour
+     0005.mp3			 43 - the hour chime
+     0006.mp3			 44 - the hour chime with trailing sound (the last chime)
